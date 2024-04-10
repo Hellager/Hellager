@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align="center">
+  
+## Hi there 👋, this is Stein
 
-<!--
-**Hellager/Hellager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  
+- 🔭 I’m currently working on [mission-backup](https://github.com/Hellager/mission-backup).
+- 🌱 I’m currently learning [tauri](https://tauri.app/).
+- ⚡ Fun fact: know more, know less.
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+
+## Github Stats
+
+<p float="left">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Hellager&show_icons=true&theme=transparent&hide_border=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellager&layout=compact&theme=transparent&hide_border=true" /> 
+</p>
+
+</div>
+</div>
+</div>

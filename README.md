@@ -4,7 +4,7 @@
 
 <div align="left">
   
-- 🔭 I’m currently working on [wincent-rs]([https://github.com/Hellager/mission-backup](https://github.com/Hellager/wincent-rs)).
+- 🔭 I’m currently working on [wincent-rs](https://github.com/Hellager/wincent-rs).
 - 🌱 I’m currently learning [tauri](https://tauri.app/).
 - ⚡ Fun fact: know more, know less.
 
